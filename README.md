@@ -1,4 +1,4 @@
-# lexis-rust-os is an MS-DOS styled Operating System made in Rust, *Independant* to the Linux kernel.
+# lexis-rust-os is an MS-DOS like Operating System made in Rust, Independant to the Linux kernel.
 made by following Philipp Oppermann's [Writing an OS in Rust tutorial](https://os.phil-opp.com/). ferris ascii art from [rustacean.net](https://rustacean.net/fan-art.html#other).
 
 to build, run
