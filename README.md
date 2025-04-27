@@ -8,4 +8,4 @@ cargo bootimage --target your/path/to/x86_64-lexisrustos.json
 <sup>this might require a few dependencies idk</sup>
 
 to run, use a tool like [QEMU](https://www.qemu.org/).
-https://raw.githubusercontent.com/transgirlswagger/lexis-rust-os/refs/heads/main/CnP_27042025_230655.png?token=GHSAT0AAAAAADC53VLXHQDSI62INHOFIWOK2AOVLKA
+https://github.com/transgirlswagger/lexis-rust-os/blob/main/CnP_27042025_230655.png?raw=true
