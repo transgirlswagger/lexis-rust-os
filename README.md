@@ -8,4 +8,5 @@ cargo bootimage --target your/path/to/x86_64-lexisrustos.json
 <sup>this might require a few dependencies idk</sup>
 
 to run, use a tool like [QEMU](https://www.qemu.org/).
+
 ![Demo Screenshot](demo.png)
